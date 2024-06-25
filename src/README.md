@@ -1,3 +1,1 @@
-# Clothing Store Website
-- A local clothing store website. Made entirely from HTML and CSS. Click the link below for a demo of a working website. https://htmlpreview.github.io/?https://github.com/BenPhan777/clothing-store-website/blob/master/index.html
-- If the link does not work, you can view it on https://codepen.io/ngn-phan-lng/pen/OJMOYjL instead.
+At BeingFashionSeer, we turn vacation packing into a stylish guessing game. Just snap a pic, and let us guess your body shape and color tone to deliver the perfect outfit. Because why leave your fashion fate to chance when you can leave it to us? Ready to pack with precision and a pinch of humor? Let's get styling at BeingFashionSeer!
